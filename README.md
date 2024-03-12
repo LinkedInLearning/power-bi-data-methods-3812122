@@ -1,34 +1,24 @@
 # Power BI Data Methods
 This is the repository for the LinkedIn Learning course `Power BI Data Methods`. The full course is available from [LinkedIn Learning][lil-course-url].
 
-_See the readme file in the main branch for updated instructions and information._
-## Instructions
-This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
+![lil-thumbnail-url]
 
-## Branches
-The branches are structured to correspond to the videos in the course. The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. 
-Some branches will have a beginning and an end state. These are marked with the letters `b` for "beginning" and `e` for "end". The `b` branch contains the code as it is at the beginning of the movie. The `e` branch contains the code as it is at the end of the movie. The `main` branch holds the final state of the code when in the course.
+Power BI is a powerful business intelligence tool designed to help users create dynamic interactive data visualizations and help you monitor data, analyze trends, and make smarter decisions. Before you can create any visuals though, you need to get your data into Power BI to use in the modeling process. In this course, Helen Wall helps you handle, import, and transform your data more efficiently, using the built-in power of Power Query. Helen shows you how to create ETL frameworks and use Power Query to extract data from multiple data sources, transform it through functionalities like grouping and pivoting, and load it into the Power BI model.
 
-When switching from one exercise files branch to the next after making changes to the files, you may get a message like this:
+### Instructor
 
-    error: Your local changes to the following files would be overwritten by checkout:        [files]
-    Please commit your changes or stash them before you switch branches.
-    Aborting
+Helen Wall
 
-To resolve this issue:
-	
-    Add changes to git using this command: git add .
-	Commit changes using this command: git commit -m "some message"
+Data analytics and business analysis expert
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+                            
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/helen-wall).
+
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+[lil-course-url]: https://www.linkedin.com/learning/power-bi-data-methods-23487089
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQERek4YP-UxwQ/learning-public-crop_675_1200/0/1709937715535?e=2147483647&v=beta&t=slJzFlhyNGnsW9vWnwtD5DuLx3t1B7y7XuH6TURyePY
 
